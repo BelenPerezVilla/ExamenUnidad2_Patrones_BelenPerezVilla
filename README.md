@@ -1,2 +1,3 @@
-# ExamenUnidad2_Patrones_BelenPerezVilla
-Examen de la unidad 2, patrones de diseño 
+# Belen Perez Villa
+# **Coordinacion de trafico de una ciudad simulada para optimizar flujo de vehiculos**
+
