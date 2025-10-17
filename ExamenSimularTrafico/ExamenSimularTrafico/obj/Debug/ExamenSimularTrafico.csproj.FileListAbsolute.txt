@@ -1,0 +1,7 @@
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ExamenSimularTrafico\ExamenSimularTrafico\obj\Debug\ExamenSimularTrafico.csproj.AssemblyReference.cache
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ExamenSimularTrafico\ExamenSimularTrafico\obj\Debug\ExamenSimularTrafico.csproj.CoreCompileInputs.cache
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ExamenSimularTrafico\ExamenSimularTrafico\bin\Debug\ExamenSimularTrafico.exe.config
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ExamenSimularTrafico\ExamenSimularTrafico\bin\Debug\ExamenSimularTrafico.exe
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ExamenSimularTrafico\ExamenSimularTrafico\bin\Debug\ExamenSimularTrafico.pdb
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ExamenSimularTrafico\ExamenSimularTrafico\obj\Debug\ExamenSimularTrafico.exe
+C:\Users\belen\OneDrive\Escritorio\Semestre 9\ExamenSimularTrafico\ExamenSimularTrafico\obj\Debug\ExamenSimularTrafico.pdb
